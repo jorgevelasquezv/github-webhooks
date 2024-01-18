@@ -1,2 +1,2 @@
 # github-webhooks
-Proyecto para probar ebhooks de github y discord
+Proyecto para probar webhooks de Github y Discord
